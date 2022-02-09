@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(223, 234, 235);
+ /*background-image: url(tec.jpg);
+ background-attachment: fixed;*/
+ font-family: 'Raleway', sans-serif;
+ margin: 0;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.profile{
+    text-align: center;
+    margin-bottom: 40px;
+}
+h3  { 
+    color: rgb(37, 41, 63);
+}
+.foto {
+    border: 2px solid #FFFF;
+    border-radius: 80%;
+    width: 180px;
+    margin: 30px 30px 0 30px;
+    padding: 1px;
+    box-shadow:0px 0px 10px #a77da7 ;
+}
+#titulo_principal {
+    color: rgba( 0, 0, 0.0);
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-weight: 200;
+    letter-spacing: -1px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 40px;
+    margin: 10px;
+}
+
+.jobs_list{
+    list-style: none;
+}
+h4 {
+    margin-bottom: 5px;
+}
+h5{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+p {
+    line-height: 25px;
+    margin-top: 5px;
+}
+.footer {
+    background-color: black;
+    margin-top: 40px;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 0;
+}
