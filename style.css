@@ -6,8 +6,8 @@ body {
  margin: 0;
 }
 .container {
-    width: 900px;
-    margin: 0 auto;
+    width: auto;
+    margin: 0 1em 0;
 }
 .profile{
     text-align: center;
